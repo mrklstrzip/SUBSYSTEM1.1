@@ -6,7 +6,7 @@ namespace Subsystem1.Areas.Admin.Controllers
     {
         public ActionResult dashboard()
         {
-            return View();
+            return View(saman);
         }
     }
 }

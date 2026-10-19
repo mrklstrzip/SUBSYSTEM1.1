@@ -77,3 +77,7 @@ C:\Users\Mark Lester\source\repos\Subsystem1\bin\WebGrease.dll
 C:\Users\Mark Lester\source\repos\Subsystem1\bin\Antlr3.Runtime.pdb
 C:\Users\Mark Lester\source\repos\Subsystem1\bin\Newtonsoft.Json.xml
 C:\Users\Mark Lester\source\repos\Subsystem1\bin\System.Web.Optimization.xml
+C:\Users\Mark Lester\source\Subsystem1\obj\Debug\Subsystem1.csproj.AssemblyReference.cache
+C:\Users\Mark Lester\source\Subsystem1\obj\Debug\Subsystem1.csproj.CoreCompileInputs.cache
+C:\Users\Mark Lester\source\Subsystem1\obj\Debug\Subsystem1.dll
+C:\Users\Mark Lester\source\Subsystem1\obj\Debug\Subsystem1.pdb
